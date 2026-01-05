@@ -4,6 +4,9 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange.svg)
 ![Plotly](https://img.shields.io/badge/Data-Viz-red.svg)
 
+<img width="1366" height="1426" alt="demo" src="https://github.com/user-attachments/assets/d11d3c58-f276-4435-b26d-bc21902e6052" />
+
+
 > **Acesse o Dashboard:** (https://olist-logistics-dashboard-834cmsnmkntpnbmgeuodsb.streamlit.app/)
 
 ## 💼 O Desafio de Negócio
