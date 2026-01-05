@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange.svg)
 ![Plotly](https://img.shields.io/badge/Data-Viz-red.svg)
 
-> **Acesse o Dashboard:** [🔗 Link do seu Streamlit Aqui](https://olist-logistics-dashboard-834cmsnmkntpnbmgeuodsb.streamlit.app/)
+> **Acesse o Dashboard:** (https://olist-logistics-dashboard-834cmsnmkntpnbmgeuodsb.streamlit.app/)
 
 ## 💼 O Desafio de Negócio
 A Olist, maior plataforma de e-commerce do Brasil, precisava investigar as causas da insatisfação de clientes. A hipótese da diretoria era de que atrasos logísticos estavam correlacionados com notas baixas (Reviews), mas faltavam dados concretos para provar isso e localizar os gargalos regionais.
